@@ -1,7 +1,11 @@
 # 👋 Bem-vindo(a) ao perfil do Thiago C.D. Martins
 
-<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ThiagoCDMartins&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ThiagoCDMartins&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThiagoCDMartins&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,cs,react,tailwind,typescript,javascript,html,css,mysql,postgres,supabase,git,github,docker,linux,powershell,bash&perline=9)](https://skillicons.dev)
+---
+[![](https://komarev.com/ghpvc/?username=ThiagoCDMartins&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
