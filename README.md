@@ -1,15 +1,1 @@
-# 👋 Bem-vindo(a) ao perfil do Thiago C.D. Martins
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThiagoCDMartins&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCDMartins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCDMartins&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCDMartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
+# 👋 Bem-vindo(a) ao perfil do Thiago C.D. Martins # 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=ThiagoCDMartins&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=ThiagoCDMartins&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThiagoCDMartins&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) --- [![](https://komarev.com/ghpvc/?username=ThiagoCDMartins&icon=0&color=0)](https://visitcount.itsvg.in) 
